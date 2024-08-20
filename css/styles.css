@@ -1,0 +1,29 @@
+/************************TAG SELECTORS******************************/
+
+body {
+  margin: 0px;
+}
+h1 {
+  margin-top: 0px;
+}
+
+/**********************CLASS SELECTORS*******************************/
+.div_top {
+  background-color: #e4f9f5;
+}
+
+.div_middle {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.div_bottom {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+
+.act {
+  text-decoration: underline;
+}
